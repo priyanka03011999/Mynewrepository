@@ -17,7 +17,7 @@ System.out.println("employee salary:"+(empsal+2000));
 }
 public static void main(String[] args)
 {
-Employeedetails1 ed= new Employeedetails1();
+EmployeeDetails1 ed= new EmployeeDetails1();
 ed.calculateSalary();
 }
 )
